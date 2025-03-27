@@ -19,10 +19,10 @@ Additionally, I have contributed to the InforOS Developer Portal by:
 
 Examples of Technical Instructions
 <ul>
-  <li><a href="https://developer.infor.com/tutorials/analytics/birst-cloud-agent-installation/" target="_blank">Birst Cloud Agent Installation</a></li>
-  <li><a href="https://developer.infor.com/tutorials/analytics/how-to-connect-to-a-file/" target="_blank">Connect to a File</a></li>
-  <li><a href="https://developer.infor.com/tutorials/analytics/how-to-connect-to-a-database/" target="_blank">Connect to a Database</a></li>
-  <li><a href="https://developer.infor.com/tutorials/artificial-intelligence/optimizing-assortment-selection/" target="_blank">Optimize Assortment Selection</a></li>
+  <li><a href="https://developer.infor.com/tutorials/analytics/birst-cloud-agent-installation/">Birst Cloud Agent Installation</a></li>
+  <li><a href="https://developer.infor.com/tutorials/analytics/how-to-connect-to-a-file/">Connect to a File</a></li>
+  <li><a href="https://developer.infor.com/tutorials/analytics/how-to-connect-to-a-database/">Connect to a Database</a></li>
+  <li><a href="https://developer.infor.com/tutorials/artificial-intelligence/optimizing-assortment-selection/">Optimize Assortment Selection</a></li>
 </ul>
 
 <h3>Acknowledgements</h3>
